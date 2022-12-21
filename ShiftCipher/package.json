@@ -1,0 +1,14 @@
+{
+  "name": "shiftcipher",
+  "version": "1.0.0",
+  "description": "A shift cipher takes a plain text message and shifts each letter forward in the alphabet by a given number. For example, a shift cipher with a shift of 1 would turn the string 'hello' to 'ifmmp'.",
+  "main": "shiftCipher.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
